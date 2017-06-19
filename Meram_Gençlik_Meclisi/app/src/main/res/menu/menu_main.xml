@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+    <item android:id="@+id/ogrenci_ekle" android:title="Üye Ekle" />
+    <item android:id="@+id/ogrenci_listele" android:title="Üye Listele" />
+    <item android:id="@+id/ogrenci_arama" android:title="Üye Ara" />
+    <item android:id="@+id/ogrenci_silme" android:title="Üye Sil" />
+    <item android:id="@+id/cikis" android:title="Çıkış" />
+</menu>
